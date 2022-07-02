@@ -8,7 +8,7 @@ class LocalStorage {
 
     public bool $enabled = false;
   
-    public function _setEnabled(bool $enabled)
+    public function setEnabled(bool $enabled)
     { 
         $this->enabled = $enabled;
     }
