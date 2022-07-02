@@ -6,12 +6,11 @@ $myVariable = 'something';
 
 class LocalStorage {
 
-    public bool $enabled;
+    public bool $enabled = false;
   
-    public function __construct(bool $enabled = false)
+    public function _setEnabled(bool $enabled)
     { 
         $this->enabled = $enabled;
-        $this->that = 'this';
     }
     
 }
