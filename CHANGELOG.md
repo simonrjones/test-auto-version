@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/simonrjones/test-auto-version/compare/v1.0.0...v1.0.1) (2022-07-02)
+
+
+### Bug Fixes
+
+* test fixing error ([a57f238](https://github.com/simonrjones/test-auto-version/commit/a57f238e23395ac18469e1bb014c901606fbc2b0))
+
 ## 1.0.0 (2022-07-02)
 
 
