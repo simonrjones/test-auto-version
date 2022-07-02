@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/simonrjones/test-auto-version/compare/v1.1.0...v1.1.1) (2022-07-02)
+
+
+### Bug Fixes
+
+* Remove incorrect _ prefix on method name ([9eef657](https://github.com/simonrjones/test-auto-version/commit/9eef6572be1b66dc570f063dda26b103c198bc28))
+
 ## [1.1.0](https://github.com/simonrjones/test-auto-version/compare/v1.0.1...v1.1.0) (2022-07-02)
 
 
