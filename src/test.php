@@ -13,4 +13,9 @@ class LocalStorage {
         $this->enabled = $enabled;
     }
     
+    public function getEnabled(): bool
+    {
+        return $this->enabled;
+    }
+    
 }
