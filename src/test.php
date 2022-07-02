@@ -11,6 +11,7 @@ class LocalStorage {
     public function __construct(bool $enabled = false)
     { 
         $this->enabled = $enabled;
+        $this->that = 'this';
     }
     
 }
