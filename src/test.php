@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-$myVariable = 'something';
+$myVariable = 'something more';
 
 class LocalStorage {
 
