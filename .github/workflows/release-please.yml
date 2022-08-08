@@ -13,6 +13,8 @@ jobs:
           mkdir ./release
           cp -r src release/
           cp version.txt release/
-      - uses: google-github-actions/release-please-action@v3
+      - name: Create release
+        uses: google-github-actions/release-please-action@v3
         with:
           release-type: simple
+          path: release
