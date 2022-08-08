@@ -7,6 +7,9 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@master
+      - name: Create release files
+        run: ./create-release.sh
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: simple
