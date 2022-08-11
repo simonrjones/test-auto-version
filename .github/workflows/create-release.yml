@@ -1,0 +1,23 @@
+on:
+  push:
+    # Sequence of patterns matched against refs/tags
+    tags:
+    - 'v*' # Push events to matching v*, i.e. v2.0
+
+jobs:
+  build:
+    name: Upload Release Asset
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Create release files
+        run: |
+          zip --junk-paths amplify.zip version.txt src/
+      - name: Upload binaries to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          file: ./amplify.zip
+          asset_name: amplify.${{ tag }}..zip
+          tag: ${{ github.ref }}
+          overwrite: true
