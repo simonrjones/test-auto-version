@@ -2,6 +2,8 @@
 
 A test repo to test how release-please works.
 
+Download the [latest release file](https://github.com/simonrjones/test-auto-version/releases/latest/download/amplify.zip).
+
 ## Creating new releases
 
 This repo uses [Release Please](https://github.com/marketplace/actions/release-please-action) to automatically create releases, based on [semantic versioning](https://semver.org/).
