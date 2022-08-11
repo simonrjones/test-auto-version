@@ -14,6 +14,6 @@ Use the following keywords in your commits:
 
 * `fix:` this indicates a bug fix and creates a new patch version (e.g. 1.0.1).
 * `feat:` this indicates a new feature and creates a new minor version (e.g. 1.1).
-* To create a new major version (e.g. 2.0.0) either append an exclamation mark to `fix!:` or `feat!:` or add a foter of `BREAKING CHANGE:` with details of what breaking changes there are.
+* To create a new major version (e.g. 2.0.0) either append an exclamation mark to `fix!:` or `feat!:` or add a footer of `BREAKING CHANGE:` with details of what breaking changes there are.
 
 If the action fails to run you can view the action and select `Re-run all jobs` to re-run it.
