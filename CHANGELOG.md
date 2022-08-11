@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.2](https://github.com/simonrjones/test-auto-version/compare/v1.4.1...v1.4.2) (2022-08-11)
+
+
+### Bug Fixes
+
+* testing ZIP build ([6ada8a7](https://github.com/simonrjones/test-auto-version/commit/6ada8a71f5839d14f60e2d98a6a737598d356724))
+
 ## [1.4.1](https://github.com/simonrjones/test-auto-version/compare/v1.4.0...v1.4.1) (2022-08-11)
 
 
