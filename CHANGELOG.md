@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0](https://github.com/simonrjones/test-auto-version/compare/v1.1.1...v1.2.0) (2022-08-11)
+
+
+### Features
+
+* add help information about how this works ([e2e917a](https://github.com/simonrjones/test-auto-version/commit/e2e917aa49aadf81d6d6fa8bdae203aa645bbf29))
+* new feature ([371aa40](https://github.com/simonrjones/test-auto-version/commit/371aa401c9fe0ec647c4c964f7c0bbcdafe096d4))
+* Testing ([1cbe085](https://github.com/simonrjones/test-auto-version/commit/1cbe085ed61f8cb357d9609d2711e63701601bcf))
+
 ## [1.1.1](https://github.com/simonrjones/test-auto-version/compare/v1.1.0...v1.1.1) (2022-07-02)
 
 
