@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/simonrjones/test-auto-version/compare/v1.3.0...v1.4.0) (2022-08-11)
+
+
+### Features
+
+* add release files to auto release ([c4a5950](https://github.com/simonrjones/test-auto-version/commit/c4a595090df335e16b4e939586fd916c2ee9b49c))
+
 ## [1.3.0](https://github.com/simonrjones/test-auto-version/compare/v1.2.0...v1.3.0) (2022-08-11)
 
 
