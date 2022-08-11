@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/simonrjones/test-auto-version/compare/v1.2.0...v1.3.0) (2022-08-11)
+
+
+### Features
+
+* test adding new release file ([8b28ba8](https://github.com/simonrjones/test-auto-version/commit/8b28ba8ce21d7aded21df2181683f7b7ecd63b0a))
+
+
+### Bug Fixes
+
+* remove file build in auto release ([f981b85](https://github.com/simonrjones/test-auto-version/commit/f981b858e36ad48786dcb1b8331c1de65fffb7cf))
+
 ## [1.2.0](https://github.com/simonrjones/test-auto-version/compare/v1.1.1...v1.2.0) (2022-08-11)
 
 
