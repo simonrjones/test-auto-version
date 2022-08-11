@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.3](https://github.com/simonrjones/test-auto-version/compare/v1.4.2...v1.4.3) (2022-08-11)
+
+
+### Bug Fixes
+
+* keep consistent filename so we can link to it easily ([f1283a6](https://github.com/simonrjones/test-auto-version/commit/f1283a6b71ec89c80dd8baf2af8aa6c13720027b))
+
 ## [1.4.2](https://github.com/simonrjones/test-auto-version/compare/v1.4.1...v1.4.2) (2022-08-11)
 
 
