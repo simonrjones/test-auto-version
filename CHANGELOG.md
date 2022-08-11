@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/simonrjones/test-auto-version/compare/v1.4.0...v1.4.1) (2022-08-11)
+
+
+### Bug Fixes
+
+* add ID to release step ([908acea](https://github.com/simonrjones/test-auto-version/commit/908acea3f4061c226a497dfecf6105284406c6ce))
+
 ## [1.4.0](https://github.com/simonrjones/test-auto-version/compare/v1.3.0...v1.4.0) (2022-08-11)
 
 
