@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-$myVariable = 'something new';
+$myVariable = 'something newer';
 
 class LocalStorage {
 
-    public bool $enabled = false;
+    public bool $enabled = true;
   
     public function setEnabled(bool $enabled)
     { 
