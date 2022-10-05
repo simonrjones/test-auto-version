@@ -6,7 +6,7 @@ $myVariable = 'something new';
 
 class LocalStorage {
 
-    public bool $enabled = false;
+    public bool $enabled = true;
   
     public function setEnabled(bool $enabled)
     { 
