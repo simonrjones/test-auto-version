@@ -1,6 +1,6 @@
 # test-auto-version
 
-A test repo to test how release-please works.
+A test repo to test how release-please works. Testin 1, 2, 3.
 
 Download the [latest release file](https://github.com/simonrjones/test-auto-version/releases/latest/download/amplify.zip).
 
