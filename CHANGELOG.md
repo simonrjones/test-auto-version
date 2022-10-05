@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.4](https://github.com/simonrjones/test-auto-version/compare/v1.4.3...v1.4.4) (2022-10-05)
+
+
+### Bug Fixes
+
+* edit name of something ([8ae118e](https://github.com/simonrjones/test-auto-version/commit/8ae118eef69b20664764368a9e55899607dab456))
+
 ## [1.4.3](https://github.com/simonrjones/test-auto-version/compare/v1.4.2...v1.4.3) (2022-08-11)
 
 
